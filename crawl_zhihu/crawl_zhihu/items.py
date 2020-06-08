@@ -9,6 +9,21 @@ import scrapy
 
 
 class CrawlZhihuItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    # #回答内容
+    # answer_content = scrapy.Field()
+    # #回答创建时间
+    # answer_created_time = scrapy.Field()
+    # #回答问题的作者
+    # answer_author = scrapy.Field()
+    answer_list = scrapy.Field()
+
+    id = scrapy.Field()
+
+    #问题标题
+    question_title = scrapy.Field()
+    #问题内容
+    question_content = scrapy.Field()
+    #url
+    question_url = scrapy.Field()
+
+
