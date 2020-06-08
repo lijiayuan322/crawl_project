@@ -1,0 +1,13 @@
+Keras==2.0.1
+Pillow==3.4.2
+#jupyter==1.0.0
+#matplotlib==1.5.3
+numpy==1.12.1
+scikit-learn==0.18.1
+tensorflow==1.0.1
+h5py==2.6.0
+scrapy==2.1.0
+selenium==3.141.0
+mouse==0.7.1
+twisted==20.3.0
+mysqlclient==1.4.6
