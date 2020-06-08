@@ -1,11 +1,11 @@
 # crawl_project
 爬虫项目仓库
 
-settings.py 设置数据库
+settings.py 设置数据库连接,例如:
 MYSQL_HOST='127.0.0.1'
-MYSQL_DB='scrapy_first'
-MYSQL_USER='root'
-MYSQL_PASSWD='123456'
+MYSQL_DB='your database'
+MYSQL_USER='your user'
+MYSQL_PASSWD='your password'
 
 
 constant.py 设置用户密码
