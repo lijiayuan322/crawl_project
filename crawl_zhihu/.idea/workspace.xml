@@ -339,7 +339,7 @@
       <workItem from="1591521178814" duration="3955000" />
       <workItem from="1591534425170" duration="3082000" />
       <workItem from="1591576627592" duration="3282000" />
-      <workItem from="1591580615250" duration="341000" />
+      <workItem from="1591580615250" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="  asd">
       <created>1591343813578</created>
@@ -355,7 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591579363090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="asd">
+      <created>1591581098453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591581098453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="asd">
+      <created>1591581197784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591581197784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -391,7 +405,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100029000" />
+    <option name="totallyTimeSpent" value="100304000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,8 +418,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37732795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37732795" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,7 +435,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50121456" side_tool="true" weight="0.46332738" />
       <window_info anchor="bottom" id="调试" order="11" sideWeight="0.49878544" weight="0.5813953" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49878544" visible="true" weight="0.3255814" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49878544" visible="true" weight="0.3255814" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -621,13 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="209134" selection-start-column="209134" selection-end-column="209134" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/scrapy -- python3.7/Lib/site-packages/twisted/internet/selectreactor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -681,6 +689,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1308">
+          <caret column="126553" lean-forward="true" selection-start-column="126553" selection-end-column="126553" />
         </state>
       </provider>
     </entry>
